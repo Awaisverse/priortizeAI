@@ -1,0 +1,96 @@
+{
+  "total": 6,
+  "results": [
+    {
+      "id": "eng-001",
+      "properties": {
+        "hs_engagement_type": "EMAIL",
+        "hs_timestamp": "2026-06-15T09:00:00.000Z",
+        "hs_body_preview": "Hi Sarah, attaching the final SOW for legal review. Please confirm receipt.",
+        "hs_email_subject": "GlobalTech Enterprise License — Final SOW for Signature",
+        "hs_call_duration": null,
+        "hs_meeting_outcome": null,
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": "contact-001",
+        "hs_deal_id": "88112233"
+      },
+      "createdAt": "2026-06-15T09:00:00.000Z"
+    },
+    {
+      "id": "eng-002",
+      "properties": {
+        "hs_engagement_type": "CALL",
+        "hs_timestamp": "2026-06-10T14:30:00.000Z",
+        "hs_body_preview": "30-minute discovery call. James confirmed stakeholder buy-in. Demo scheduled for Jun 19.",
+        "hs_email_subject": null,
+        "hs_call_duration": "1800000",
+        "hs_meeting_outcome": "COMPLETED",
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": "contact-002",
+        "hs_deal_id": "88112234"
+      },
+      "createdAt": "2026-06-10T14:30:00.000Z"
+    },
+    {
+      "id": "eng-003",
+      "properties": {
+        "hs_engagement_type": "EMAIL",
+        "hs_timestamp": "2026-05-30T10:00:00.000Z",
+        "hs_body_preview": "Priya, sending over the contract as discussed. Please forward to procurement.",
+        "hs_email_subject": "FinServ Compliance Suite — Contract for Review",
+        "hs_call_duration": null,
+        "hs_meeting_outcome": null,
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": "contact-003",
+        "hs_deal_id": "88112236"
+      },
+      "createdAt": "2026-05-30T10:00:00.000Z"
+    },
+    {
+      "id": "eng-004",
+      "properties": {
+        "hs_engagement_type": "MEETING",
+        "hs_timestamp": "2026-06-12T11:00:00.000Z",
+        "hs_body_preview": "Initial meeting with HealthCo data team. Good fit. Identified 3 use cases for analytics platform.",
+        "hs_email_subject": null,
+        "hs_call_duration": "3600000",
+        "hs_meeting_outcome": "COMPLETED",
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": "contact-004",
+        "hs_deal_id": "88112237"
+      },
+      "createdAt": "2026-06-12T11:00:00.000Z"
+    },
+    {
+      "id": "eng-005",
+      "properties": {
+        "hs_engagement_type": "NOTE",
+        "hs_timestamp": "2026-06-14T16:00:00.000Z",
+        "hs_body_preview": "GlobalTech deal is at risk if we do not close by June 20. Budget expires end of month.",
+        "hs_email_subject": null,
+        "hs_call_duration": null,
+        "hs_meeting_outcome": null,
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": "contact-001",
+        "hs_deal_id": "88112233"
+      },
+      "createdAt": "2026-06-14T16:00:00.000Z"
+    },
+    {
+      "id": "eng-006",
+      "properties": {
+        "hs_engagement_type": "CALL",
+        "hs_timestamp": "2026-06-17T08:00:00.000Z",
+        "hs_body_preview": "Quick check-in on RetailCo SMB bundle. Team is aligned. Moving forward with evaluation.",
+        "hs_email_subject": null,
+        "hs_call_duration": "900000",
+        "hs_meeting_outcome": "COMPLETED",
+        "hubspot_owner_id": "ae-001",
+        "hs_contact_id": null,
+        "hs_deal_id": "88112235"
+      },
+      "createdAt": "2026-06-17T08:00:00.000Z"
+    }
+  ],
+  "paging": null
+}

@@ -1,0 +1,82 @@
+{
+  "total": 4,
+  "results": [
+    {
+      "id": "task-001",
+      "properties": {
+        "hs_task_subject": "Send final contract to GlobalTech legal",
+        "hs_task_body": "Legal team requires signed SOW before Jun 20 close",
+        "hs_timestamp": "2026-06-16T09:00:00.000Z",
+        "hubspot_owner_id": "ae-001",
+        "hs_task_status": "NOT_STARTED",
+        "hs_task_type": "EMAIL",
+        "hs_task_priority": "HIGH",
+        "hs_due_date": "2026-06-16T17:00:00.000Z",
+        "createdate": "2026-06-14T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-14T00:00:00.000Z",
+        "hs_contact_id": "contact-001",
+        "hs_deal_id": "88112233"
+      },
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z"
+    },
+    {
+      "id": "task-002",
+      "properties": {
+        "hs_task_subject": "Follow up call with FinServ champion",
+        "hs_task_body": "Check on contract status — went silent after sending",
+        "hs_timestamp": "2026-06-17T10:00:00.000Z",
+        "hubspot_owner_id": "ae-001",
+        "hs_task_status": "NOT_STARTED",
+        "hs_task_type": "CALL",
+        "hs_task_priority": "HIGH",
+        "hs_due_date": "2026-06-17T12:00:00.000Z",
+        "createdate": "2026-06-16T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-16T00:00:00.000Z",
+        "hs_contact_id": "contact-003",
+        "hs_deal_id": "88112236"
+      },
+      "createdAt": "2026-06-16T00:00:00.000Z",
+      "updatedAt": "2026-06-16T00:00:00.000Z"
+    },
+    {
+      "id": "task-003",
+      "properties": {
+        "hs_task_subject": "Prepare ROI deck for Acme presentation",
+        "hs_task_body": "Need to tailor the ROI deck with Acme's specific metrics",
+        "hs_timestamp": "2026-06-20T00:00:00.000Z",
+        "hubspot_owner_id": "ae-001",
+        "hs_task_status": "NOT_STARTED",
+        "hs_task_type": "TASK",
+        "hs_task_priority": "MEDIUM",
+        "hs_due_date": "2026-06-19T17:00:00.000Z",
+        "createdate": "2026-06-15T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-15T00:00:00.000Z",
+        "hs_contact_id": "contact-002",
+        "hs_deal_id": "88112234"
+      },
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z"
+    },
+    {
+      "id": "task-004",
+      "properties": {
+        "hs_task_subject": "Schedule discovery call with HealthCo",
+        "hs_task_body": "Initial discovery to understand data pipeline requirements",
+        "hs_timestamp": "2026-06-25T00:00:00.000Z",
+        "hubspot_owner_id": "ae-001",
+        "hs_task_status": "NOT_STARTED",
+        "hs_task_type": "CALL",
+        "hs_task_priority": "LOW",
+        "hs_due_date": "2026-06-25T17:00:00.000Z",
+        "createdate": "2026-06-15T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-15T00:00:00.000Z",
+        "hs_contact_id": "contact-004",
+        "hs_deal_id": "88112237"
+      },
+      "createdAt": "2026-06-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T00:00:00.000Z"
+    }
+  ],
+  "paging": null
+}

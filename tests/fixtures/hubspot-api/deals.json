@@ -1,0 +1,101 @@
+{
+  "total": 5,
+  "results": [
+    {
+      "id": "88112233",
+      "properties": {
+        "dealname": "GlobalTech Enterprise License",
+        "amount": "185000",
+        "closedate": "2026-06-20T00:00:00.000Z",
+        "pipeline": "default",
+        "dealstage": "decisionmakerboughtin",
+        "hubspot_owner_id": "ae-001",
+        "hs_deal_stage_probability": "75",
+        "notes_last_contacted": "2026-06-15T09:00:00.000Z",
+        "description": "Enterprise license renewal with 200 additional seats",
+        "createdate": "2026-01-15T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-15T09:00:00.000Z",
+        "hs_closed_won_date": null
+      },
+      "createdAt": "2026-01-15T00:00:00.000Z",
+      "updatedAt": "2026-06-15T09:00:00.000Z"
+    },
+    {
+      "id": "88112234",
+      "properties": {
+        "dealname": "Acme Corp Platform Upgrade",
+        "amount": "62000",
+        "closedate": "2026-07-15T00:00:00.000Z",
+        "pipeline": "default",
+        "dealstage": "presentationscheduled",
+        "hubspot_owner_id": "ae-001",
+        "hs_deal_stage_probability": "50",
+        "notes_last_contacted": "2026-06-10T14:00:00.000Z",
+        "description": "Platform migration from v1 to v3 with training package",
+        "createdate": "2026-03-01T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-10T14:00:00.000Z",
+        "hs_closed_won_date": null
+      },
+      "createdAt": "2026-03-01T00:00:00.000Z",
+      "updatedAt": "2026-06-10T14:00:00.000Z"
+    },
+    {
+      "id": "88112235",
+      "properties": {
+        "dealname": "RetailCo SMB Bundle",
+        "amount": "18500",
+        "closedate": "2026-08-30T00:00:00.000Z",
+        "pipeline": "smb",
+        "dealstage": "qualifiedtobuy",
+        "hubspot_owner_id": "ae-001",
+        "hs_deal_stage_probability": "30",
+        "notes_last_contacted": "2026-06-17T08:00:00.000Z",
+        "description": "SMB bundle with 3 modules",
+        "createdate": "2026-05-01T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-17T08:00:00.000Z",
+        "hs_closed_won_date": null
+      },
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "updatedAt": "2026-06-17T08:00:00.000Z"
+    },
+    {
+      "id": "88112236",
+      "properties": {
+        "dealname": "FinServ Compliance Suite",
+        "amount": "95000",
+        "closedate": "2026-07-01T00:00:00.000Z",
+        "pipeline": "enterprise",
+        "dealstage": "contractsent",
+        "hubspot_owner_id": "ae-001",
+        "hs_deal_stage_probability": "85",
+        "notes_last_contacted": "2026-05-30T10:00:00.000Z",
+        "description": "Compliance and audit suite for financial services",
+        "createdate": "2026-02-10T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-05-30T10:00:00.000Z",
+        "hs_closed_won_date": null
+      },
+      "createdAt": "2026-02-10T00:00:00.000Z",
+      "updatedAt": "2026-05-30T10:00:00.000Z"
+    },
+    {
+      "id": "88112237",
+      "properties": {
+        "dealname": "HealthCo Data Analytics",
+        "amount": "45000",
+        "closedate": "2026-09-30T00:00:00.000Z",
+        "pipeline": "default",
+        "dealstage": "appointmentscheduled",
+        "hubspot_owner_id": "ae-001",
+        "hs_deal_stage_probability": "20",
+        "notes_last_contacted": "2026-06-12T11:00:00.000Z",
+        "description": "Data analytics platform for healthcare provider",
+        "createdate": "2026-04-20T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-12T11:00:00.000Z",
+        "hs_closed_won_date": null
+      },
+      "createdAt": "2026-04-20T00:00:00.000Z",
+      "updatedAt": "2026-06-12T11:00:00.000Z"
+    }
+  ],
+  "paging": null
+}

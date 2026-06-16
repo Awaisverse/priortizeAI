@@ -1,0 +1,86 @@
+{
+  "total": 4,
+  "results": [
+    {
+      "id": "contact-001",
+      "properties": {
+        "firstname": "Sarah",
+        "lastname": "Mitchell",
+        "email": "s.mitchell@globaltech.com",
+        "phone": "+1-415-555-0101",
+        "jobtitle": "VP of Engineering",
+        "company": "GlobalTech Inc",
+        "hubspot_owner_id": "ae-001",
+        "notes_last_contacted": "2026-06-15T09:00:00.000Z",
+        "num_contacted_notes": "12",
+        "hs_email_last_send_date": "2026-06-15T09:00:00.000Z",
+        "hs_email_first_send_date": "2026-01-20T00:00:00.000Z",
+        "createdate": "2026-01-20T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-15T09:00:00.000Z"
+      },
+      "createdAt": "2026-01-20T00:00:00.000Z",
+      "updatedAt": "2026-06-15T09:00:00.000Z"
+    },
+    {
+      "id": "contact-002",
+      "properties": {
+        "firstname": "James",
+        "lastname": "Okafor",
+        "email": "j.okafor@acmecorp.com",
+        "phone": "+1-212-555-0202",
+        "jobtitle": "Director of Operations",
+        "company": "Acme Corp",
+        "hubspot_owner_id": "ae-001",
+        "notes_last_contacted": "2026-06-10T14:00:00.000Z",
+        "num_contacted_notes": "8",
+        "hs_email_last_send_date": "2026-06-10T14:00:00.000Z",
+        "hs_email_first_send_date": "2026-03-05T00:00:00.000Z",
+        "createdate": "2026-03-05T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-10T14:00:00.000Z"
+      },
+      "createdAt": "2026-03-05T00:00:00.000Z",
+      "updatedAt": "2026-06-10T14:00:00.000Z"
+    },
+    {
+      "id": "contact-003",
+      "properties": {
+        "firstname": "Priya",
+        "lastname": "Nair",
+        "email": "p.nair@finservcorp.com",
+        "phone": "+1-312-555-0303",
+        "jobtitle": "Chief Compliance Officer",
+        "company": "FinServ Corp",
+        "hubspot_owner_id": "ae-001",
+        "notes_last_contacted": "2026-05-30T10:00:00.000Z",
+        "num_contacted_notes": "6",
+        "hs_email_last_send_date": "2026-05-30T10:00:00.000Z",
+        "hs_email_first_send_date": "2026-02-12T00:00:00.000Z",
+        "createdate": "2026-02-12T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-05-30T10:00:00.000Z"
+      },
+      "createdAt": "2026-02-12T00:00:00.000Z",
+      "updatedAt": "2026-05-30T10:00:00.000Z"
+    },
+    {
+      "id": "contact-004",
+      "properties": {
+        "firstname": "Marcus",
+        "lastname": "Chen",
+        "email": "m.chen@healthco.org",
+        "phone": "+1-617-555-0404",
+        "jobtitle": "Head of Data Science",
+        "company": "HealthCo",
+        "hubspot_owner_id": "ae-001",
+        "notes_last_contacted": "2026-06-12T11:00:00.000Z",
+        "num_contacted_notes": "3",
+        "hs_email_last_send_date": "2026-06-12T11:00:00.000Z",
+        "hs_email_first_send_date": "2026-04-22T00:00:00.000Z",
+        "createdate": "2026-04-22T00:00:00.000Z",
+        "hs_lastmodifieddate": "2026-06-12T11:00:00.000Z"
+      },
+      "createdAt": "2026-04-22T00:00:00.000Z",
+      "updatedAt": "2026-06-12T11:00:00.000Z"
+    }
+  ],
+  "paging": null
+}
